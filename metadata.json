@@ -1,0 +1,6 @@
+{
+  "name": "This Calculator Created by Sadikul",
+  "description": "Professional handheld-style scientific calculator with natural display, physical tactile keypad, calculus, complex numbers, matrices, and complete scientific functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
